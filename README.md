@@ -1,6 +1,9 @@
 # Custom server example
 
-## How to use
-
-### Using `create-next-app`
+## Uso
+```
+npm install
+npm start
+```
+    
 
